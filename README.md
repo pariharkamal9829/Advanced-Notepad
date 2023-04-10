@@ -4,6 +4,11 @@ Advanced Notedpad using Swing Framework
 
 This is a Java program for an advanced notepad using Swing framework. The notepad has features like text editing, file management, color customization, and more.
 
+This is a College Project on Subject Java Programming Course Code CSE 310 DEveloped by 3 members Group
+1. Kamlesh Parihar 12116423
+2. Tejesh 12100764
+3. Yash soni 1211256
+
 The program uses various Java Swing components like JTextArea, JMenuBar, JScrollPane, JMenuItem, JFrame, and more to create the notepad's graphical user interface. The program also uses the UndoManager class to provide an undo/redo feature.
 
 <img width="336" alt="s1" src="https://user-images.githubusercontent.com/113664592/230616082-25f32288-1c3e-4d17-9f2f-6bc770718516.png">
