@@ -1,4 +1,4 @@
-te45trvtj5# Advanced-Notepad 
+# Advanced-Notepad 
 Advanced Notedpad using Swing Framework
 #java #Advance-Notepad #Gui #notepad #Swing-Framework
 
